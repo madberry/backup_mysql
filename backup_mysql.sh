@@ -1,5 +1,5 @@
 #!/bin/bash
-#Original by Azelphur
+#Original by Azelphur 
 
 # MySQL username
 USER="root"

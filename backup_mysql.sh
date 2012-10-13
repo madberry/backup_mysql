@@ -1,4 +1,5 @@
 #!/bin/bash
+#Original by Azelphur
 
 # MySQL username
 USER="root"
